@@ -1,0 +1,222 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-repeat:no-repeat;
+    background-image: url(/High_resolution_wallpaper_background_ID_77700343840.jpg);
+    background-size: cover;
+}
+.header{
+    box-sizing: border-box;
+    width:196vh;
+    background-color: aliceblue;
+    height: 20vh;
+    border: 5px solid rgb(54, 146, 182);
+    padding: auto;
+}
+#logo{
+    display: flex;
+    position: absolute;
+    width: 200px;
+    margin: 0;
+    top: 0;
+    -webkit-filter: drop-shadow(1px 1px 25px rgb(12, 99, 197));
+    filter: drop-shadow(1px 1px 25px rgb(13, 111, 168));
+    transition: all 0.7s;
+}
+#logo:hover{
+    transition: all 0.7s;
+    -webkit-filter: drop-shadow(1px 1px 15px #222);
+    filter: drop-shadow(1px 1px 15px rgb(8, 8, 8));
+}
+h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 400%;
+    padding-top: 10px;
+    text-align: center;
+    margin: 0;
+    cursor: default;
+}
+h2{
+    font-weight: 600;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 300%;
+    text-shadow: 10px black;
+    text-align: center;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-image: url(/476f29ab268611e99ed45d2196390f75.png);
+    background-size: cover;
+    cursor: default;
+    transition: all 0.5s;
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: transparent;
+    letter-spacing: 5px;
+}
+h2:hover{
+    transition: all 0.5s;
+    letter-spacing: 10px;
+}
+.kreska{
+    margin-left: 600px;
+    width: 1230px;
+    height: 6vh;
+    background-color: white;
+    opacity: 0.5;
+    display: flex;
+    position: absolute;
+    margin-top: 0px;
+}
+.second{
+    border: 5px solid black;
+    display: flex;
+    position: absolute;
+    background-image: url(/476f29ab268611e99ed45d2196390f75.png);
+    width: 195vh;
+    height: 99vh;
+}
+#malelogo{
+    width: 30px;
+    height: 30px;
+    vertical-align: middle;
+}
+table{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: rgb(17, 17, 17);
+    width: auto;
+    height: 100%;
+    cursor: default;
+    color: white;
+    width: 600px;
+}
+th{
+    background-position: 14%;
+    background-image: url(/uefa_still002.jpg);
+    height: 6%;
+    text-align: center;
+    transition: all 0.5s;
+}
+th:hover{
+    transition: all 0.5s;
+    letter-spacing: 2px;
+}
+table,th,td{
+    border-collapse: collapse;
+    text-align: center;
+    border: 2px solid black;
+}
+th,td{
+    padding: 5px;
+}
+td{
+    line-height: 30px;
+    vertical-align:middle;
+}
+tr{
+    transition: all 0.3s;
+}
+tr:hover{
+    transition: all 0.3s;
+    background-color: rgb(99, 98, 98);
+}
+.center{
+    display: flex;
+    vertical-align: middle;
+}
+.tlo{
+    background-color: black;
+    display: flex;
+    position: absolute;
+    height: 885px;
+    width: auto;
+}
+.mecz{
+    display: flex;
+    background-color: aliceblue;
+    height: 400px;
+    width: 600px;
+    margin-top: 260px;
+    margin-left: 315px;
+    border-radius: 10px;
+}
+#mecz1{
+    margin-top: 80px;
+    height: 230px;
+    -webkit-filter: drop-shadow(1px 1px 25px rgb(12, 99, 197));
+    filter: drop-shadow(1px 1px 25px rgb(13, 111, 168));
+}
+#mecz2{
+    margin-left: 140px;
+    margin-top: 80px;
+    height: 230px;
+    -webkit-filter: drop-shadow(1px 1px 25px rgb(12, 99, 197));
+    filter: drop-shadow(1px 1px 25px rgb(13, 111, 168));
+}
+#mecznastepny{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    position: absolute;
+    display: flex;
+    font-weight: 600;
+    font-size: 300%;
+    color: white;
+    margin-top: 180px;
+    margin-left: 1020px;
+}
+#meczdata{
+    cursor: default;
+    position: absolute;
+    display: flex;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: 600;
+    margin-top: 10px;
+    margin-left: 60px;
+    font-size: 300%;
+    letter-spacing: 5px;
+}
+#meczkreska{
+    cursor: default;
+    position: absolute;
+    display: flex;
+    font-size: 500%;
+    margin-top: 130px;
+    margin-left: 285px;
+}
+#meczmiejsce{
+    position: absolute;
+    display: flex;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-top: 340px;
+    font-weight: 600;
+    font-size: 125%;
+    margin-left: 90px;
+}
+/* OSIĄGNIĘCIA/GAZETA ITD */
+.third{
+    height: 1667px;
+    width: 99.6%;
+    background-size: cover;
+    background-image: url(/rergq5gltabhbbnw.jpg);
+    margin-top: 950px;
+}
+#gazeta{
+    border: 5px solid black;
+    display: flex;
+    position: absolute;
+    right: 15px;
+    width: 50%;
+}
+#gablota{
+    border: 5px solid black;
+    width: 48.9%;
+    margin-top: 100px;
+}
+#naszeos{
+    color: white;
+    cursor: default;
+    font-weight: 600;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    display: flex;
+    position: absolute;
+    font-size: 300%;
+    margin-top: 23px;
+    margin-left: 13%;
+}
