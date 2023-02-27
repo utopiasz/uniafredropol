@@ -1,7 +1,7 @@
 body{
     font-family: Arial, Helvetica, sans-serif;
     background-repeat:no-repeat;
-    background-image: url(/High_resolution_wallpaper_background_ID_77700343840.jpg);
+    background-image: url(High_resolution_wallpaper_background_ID_77700343840.jpg);
     background-size: cover;
 }
 .header{
@@ -43,7 +43,7 @@ h2{
     text-align: center;
     background-repeat: no-repeat;
     background-position: center;
-    background-image: url(/476f29ab268611e99ed45d2196390f75.png);
+    background-image: url(476f29ab268611e99ed45d2196390f75.png);
     background-size: cover;
     cursor: default;
     transition: all 0.5s;
@@ -70,7 +70,7 @@ h2:hover{
     border: 5px solid black;
     display: flex;
     position: absolute;
-    background-image: url(/476f29ab268611e99ed45d2196390f75.png);
+    background-image: url(476f29ab268611e99ed45d2196390f75.png);
     width: 195vh;
     height: 99vh;
 }
@@ -90,7 +90,7 @@ table{
 }
 th{
     background-position: 14%;
-    background-image: url(/uefa_still002.jpg);
+    background-image: url(uefa_still002.jpg);
     height: 6%;
     text-align: center;
     transition: all 0.5s;
@@ -194,7 +194,7 @@ tr:hover{
     height: 1667px;
     width: 99.6%;
     background-size: cover;
-    background-image: url(/rergq5gltabhbbnw.jpg);
+    background-image: url(rergq5gltabhbbnw.jpg);
     margin-top: 950px;
 }
 #gazeta{
